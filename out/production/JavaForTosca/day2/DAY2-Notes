@@ -1,0 +1,13 @@
+    1. dataType variableName = value;
+    dataType ==> TypeOfData
+    byte,short, int, long, float, double, char, boolean
+    --------------------------------------------------------------------------
+    DataTypes
+     1- Primitive Data Type
+        We don't need object to use them
+        This will use fixed pre-defined memory spaces
+        Ex: byte,short, int, long, float, double, char, boolean
+
+     2- Non-Primitive Data Type
+
+
