@@ -1,0 +1,27 @@
+-Statements
+ Whenever we have to make decisions, we use statements
+ - if statement
+    SYNTAX:
+   if(condition)
+   {
+     // This code will execute only if condition is true
+   }
+
+   => condition should always result a boolean value
+
+   Issues:
+   -Its not handling the failed condition
+   -Its time consuming even if condition matches
+
+
+ - if else statement
+   if(condition)
+   {
+      This code will execute only if condition is true
+   }
+   else
+    {
+      This code will execute if condition is false
+    }
+ - if else if statement
+ - switch statement
