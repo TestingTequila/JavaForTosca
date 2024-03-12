@@ -1,0 +1,52 @@
+-Loops
+ -Repetitive Task
+ -Group of something and perform action over that group
+
+-while loop
+ while(condition)
+ {
+    This code will execute only if condition is true
+    I/D;
+ }
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ =========================================
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ ==========================================
+ 2*1 = 2
+ 2*2 = 4
+ 2*3 = 6
+ 2*4 = 8
+ 2*5 = 10
+ 2*6 = 12
+ 2*7 = 14
+ 2*8 = 16
+ 2*9 = 18
+ 2*10 = 20
+ ==========================================
+-for loop
+
+ for(variable;condition; I/D)
+ {
+    This code will execute only if condition is true
+
+ }
+-advanced for loop
+
