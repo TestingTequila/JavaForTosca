@@ -1,0 +1,5 @@
+Arrays:
+  -dataType[] arrayName    = {value1, value2, value3...............valueN}
+
+  -dataType[] arrayName = new dataType[countOfItemsYouWantTOStore]
+

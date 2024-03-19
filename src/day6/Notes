@@ -49,3 +49,8 @@
  }
 -advanced for loop
 
+ for(dataTypeOfGroup aliasName: nameOfGroup)
+ {
+     Action
+ }
+

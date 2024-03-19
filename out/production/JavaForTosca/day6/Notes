@@ -46,7 +46,11 @@
  for(variable;condition; I/D)
  {
     This code will execute only if condition is true
-
  }
 -advanced for loop
+
+ for(dataTypeOfGroup aliasName: nameOfGroup)
+ {
+     Action
+ }
 

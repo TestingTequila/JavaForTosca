@@ -1,0 +1,9 @@
+-Class:
+       A class is a template
+-Object:
+       Every copy of template with details is object
+
+- How to create class
+- How to create Object
+      ClassName aliasName = new ClassName();
+
