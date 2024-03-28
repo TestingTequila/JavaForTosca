@@ -15,13 +15,18 @@ public class ExecutingResume {
         resume1.lastSalary =456456;
 
         Resume resume2 = new Resume();
-        resume2.fName ="Kerrie";
+        //resume2 =null;
+        resume2.fName ="Kerrie"; // NPE
 
         new Resume().fName="Shahnaz";
         new Resume().lName ="Mehmood";
         new Resume().lastSalary =5654;
 
         System.gc();
+
+        new Resume().fName="Jhanvi";
+        new Resume().lName ="Kapoor";
+        new Resume().gender ='F';
 
 
 
