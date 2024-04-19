@@ -1,0 +1,8 @@
+1.     //In a class we can have 2 or more methods with same name provided
+       // 1. Parameters data type is different
+       // 2. Parameters order is different
+       // 3. Parameters count is different
+
+
+2- Overloading happens within the class
+2- Method overloading is also known as static polymorphism/Compile time polymorphism
